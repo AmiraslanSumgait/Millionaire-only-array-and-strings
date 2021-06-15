@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\bin\Debug\net5.0\SimpleQuiz.exe
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\bin\Debug\net5.0\SimpleQuiz.deps.json
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\bin\Debug\net5.0\SimpleQuiz.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\bin\Debug\net5.0\SimpleQuiz.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\bin\Debug\net5.0\SimpleQuiz.dll
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\bin\Debug\net5.0\ref\SimpleQuiz.dll
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\bin\Debug\net5.0\SimpleQuiz.pdb
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.dll
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\ref\SimpleQuiz.dll
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.pdb
+C:\Users\Amiraslan\source\repos\SimpleQuiz\SimpleQuiz\obj\Debug\net5.0\SimpleQuiz.genruntimeconfig.cache
